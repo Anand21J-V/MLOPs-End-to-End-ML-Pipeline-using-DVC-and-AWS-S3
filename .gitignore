@@ -1,3 +1,11 @@
+#artifacts files to be ignored
+data
+models
+reports
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

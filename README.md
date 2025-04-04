@@ -1,13 +1,4 @@
-Absolutely, Anand! Here's a more **comprehensive and visually enhanced** `README.md` file with:
 
-- Emojis 😎  
-- Clear sections 🧩  
-- Details on pipeline stages ⚙️  
-- How to customize/configure parameters 🛠  
-- Suggested improvements 🧪  
-- Badge section (optional but popular) 🏅  
-
----
 
 ```markdown
 # 🚀 MLOps End-to-End ML Pipeline using DVC & AWS S3
